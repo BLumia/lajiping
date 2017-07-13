@@ -1,0 +1,7 @@
+# Folders
+.dist/
+.vscode/
+
+# Binary
+*.dll
+*.exe
